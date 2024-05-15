@@ -1,0 +1,20 @@
+C:\Users\Mariyan\source\repos\Стани Богат\bin\Debug\Стани Богат.exe.config
+C:\Users\Mariyan\source\repos\Стани Богат\bin\Debug\Стани Богат.exe
+C:\Users\Mariyan\source\repos\Стани Богат\bin\Debug\Стани Богат.pdb
+C:\Users\Mariyan\source\repos\Стани Богат\obj\Debug\Стани Богат.csprojAssemblyReference.cache
+C:\Users\Mariyan\source\repos\Стани Богат\obj\Debug\Стани_Богат.Properties.Resources.resources
+C:\Users\Mariyan\source\repos\Стани Богат\obj\Debug\Стани Богат.csproj.GenerateResource.cache
+C:\Users\Mariyan\source\repos\Стани Богат\obj\Debug\Стани Богат.csproj.CoreCompileInputs.cache
+C:\Users\Mariyan\source\repos\Стани Богат\obj\Debug\Стани Богат.exe
+C:\Users\Mariyan\source\repos\Стани Богат\obj\Debug\Стани Богат.pdb
+C:\Users\Mariyan\source\repos\Стани Богат\obj\Debug\Стани_Богат.Form1.resources
+C:\Users\Mariyan\source\repos\Лични проекти\Стани Богат\bin\Debug\Стани Богат.exe.config
+C:\Users\Mariyan\source\repos\Лични проекти\Стани Богат\bin\Debug\Стани Богат.exe
+C:\Users\Mariyan\source\repos\Лични проекти\Стани Богат\bin\Debug\Стани Богат.pdb
+C:\Users\Mariyan\source\repos\Лични проекти\Стани Богат\obj\Debug\Стани Богат.csprojAssemblyReference.cache
+C:\Users\Mariyan\source\repos\Лични проекти\Стани Богат\obj\Debug\Стани_Богат.Form1.resources
+C:\Users\Mariyan\source\repos\Лични проекти\Стани Богат\obj\Debug\Стани_Богат.Properties.Resources.resources
+C:\Users\Mariyan\source\repos\Лични проекти\Стани Богат\obj\Debug\Стани Богат.csproj.GenerateResource.cache
+C:\Users\Mariyan\source\repos\Лични проекти\Стани Богат\obj\Debug\Стани Богат.csproj.CoreCompileInputs.cache
+C:\Users\Mariyan\source\repos\Лични проекти\Стани Богат\obj\Debug\Стани Богат.exe
+C:\Users\Mariyan\source\repos\Лични проекти\Стани Богат\obj\Debug\Стани Богат.pdb
